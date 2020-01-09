@@ -6,3 +6,7 @@ Given a composite systems comprised of randomly distributed insulating and metal
 
 2. Queues.
 The goal of this assignment is to implement elementary data structures using resizing arrays and linked lists.
+
+3. Autocomplete.
+Write a program to implement autocomplete for a given set of n terms, where a term is a query string and an associated non-negative weight. That is, given a prefix, find all queries that start with the given prefix, in descending order of weight.
+
