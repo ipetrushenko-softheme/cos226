@@ -10,5 +10,5 @@ The goal of this assignment is to implement elementary data structures using res
 3. Autocomplete.
 Write a program to implement autocomplete for a given set of n terms, where a term is a query string and an associated non-negative weight. That is, given a prefix, find all queries that start with the given prefix, in descending order of weight.
 
-4. 8puzzle
+4. 8puzzle.
 Write a program to solve the 8-puzzle problem using the A* search algorithm. The 8-puzzle is a sliding puzzle that is played on a 3-by-3 grid with 8 square tiles labeled 1 through 8, plus a blank square. The goal is to rearrange the tiles so that they are in row-major order, using as few moves as possible.
